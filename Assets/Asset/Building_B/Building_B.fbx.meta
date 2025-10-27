@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: a167b39edfd81544399944fa28b4aa8f
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Back_Frame
+    second: {fileID: 2100000, guid: 1ba1b44efc2c24949b00a7ba5a0d3cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Back_Pillers
+    second: {fileID: 2100000, guid: 10ec3ab3bc3c02049a34e42e98e91bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Back_Plane
+    second: {fileID: 2100000, guid: 3b8cd7edd8623a046b038af23e82ffe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Ceiling
+    second: {fileID: 2100000, guid: a86bada96dabee44e880c5777d80f7d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Electronics
+    second: {fileID: 2100000, guid: 086b5747850f0304fb7120ff7ec60f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Front_A_Back
+    second: {fileID: 2100000, guid: 0b418492aff091d4a9ed017a0576f73f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Front_A_Front
+    second: {fileID: 2100000, guid: da631a9f1f203374f9b1d4b9a5540422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Front_A_SIde
+    second: {fileID: 2100000, guid: 19173ba26253e6240aadeab31c27d2c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Front_B_Back
+    second: {fileID: 2100000, guid: 2a5c4176e233c9445a8f78dee0c2a806, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Front_B_Front
+    second: {fileID: 2100000, guid: 30a81e8dd3fdb3248979459ebfa43b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Front_B_Side
+    second: {fileID: 2100000, guid: 7c359817bc273a146bc1b8ad5793f995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Front_C_Back
+    second: {fileID: 2100000, guid: 70fe443749e388b4d83c44a9bd3c0e1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Front_C_Front
+    second: {fileID: 2100000, guid: ba6faf2e2423eb64f967ecfdfbc524d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Front_C_Side
+    second: {fileID: 2100000, guid: cf8ca8299250d1645a3828d5f8b923d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_HandRail_A
+    second: {fileID: 2100000, guid: cb1589cf96832bc4fad6b6c45ece8017, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_HandRail_B
+    second: {fileID: 2100000, guid: ad06c8f7339145d4eafb955c6d542f3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_HandRail_C
+    second: {fileID: 2100000, guid: 99a0588d6609b724495d1392c670d4a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_HandRail_D
+    second: {fileID: 2100000, guid: 8b47d8257e2e60f4b9cbc653f34da2fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_HandRail_E
+    second: {fileID: 2100000, guid: 43153cae9af281943b115ddb6320849e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Ladders
+    second: {fileID: 2100000, guid: 8cf951330f623504d93cc6752f10a909, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Partition
+    second: {fileID: 2100000, guid: abc6c73e886645e4bb9a6b349369ad8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Stairs_A
+    second: {fileID: 2100000, guid: b7112cd7c6894d4498b7bdc04d7ef41c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Stairs_B
+    second: {fileID: 2100000, guid: 3b1d663b86c3fb645b691d62bbeaa4cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Stairs_Frame
+    second: {fileID: 2100000, guid: 09978b31097458d4ba22ec1cc6e45902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_WindowRoof
+    second: {fileID: 2100000, guid: 32ccc3789ef9fe949a4c6d59cc25afb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_Windows
+    second: {fileID: 2100000, guid: 8fb7e4c3b245e50439c56b3c7065fed8, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
